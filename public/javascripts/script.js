@@ -1,3 +1,4 @@
+
 // This will print in the wrong order
 // we added it for you to test to make sure data is loaded
 // 🚨🚨🚨 comment out the next 3 lines when you start working on the code
